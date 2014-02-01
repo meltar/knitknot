@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Lipstick"
+date: 2014-01-23 00:25:00 -0500
+comments: true
+categories: [Sweaters, Goals, Queued, Projects]
+---
+
+[Pattern](http://www.ravelry.com/patterns/library/lipstick) by Joji Locatelli
+
+I really wanted to knit another long or cabled sweater, but I realized I'm short on yardage.  For now, the best
+option is knitting a different sweater that uses less yarn. I'd still like to eventually knit either
+[L'Acadie Cardigan](http://www.ravelry.com/patterns/library/lacadie-cardigan) (probably with narrower
+front bands) or [Plowman Cardigan](http://www.ravelry.com/patterns/library/plowman-cardigan) (probably
+with modified sleeves).
+
+Still, I'm looking forward to knitting Lipstick.  I'd like to have more short row practice, and I always
+love patterns that show off twisted rib.
+
+After doing some research, I need to decide if I want to turn the cardigan into a henley. I probably ought
+to stick to the cardigan since I wanted to knit one when I started planning which pattern to choose.  I'm
+definitely going to make longer sleeves if I have enough yarn.  I think that's a really useful modification
+for winter sweater wearing.
+
+{% img left /images/coral1.JPG Coral yarn %}
+
+I already wound my yarn, so the next step is learning how to crochet a provisional cast on around the 
+needle.
