@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2014 Hat Calendar - January"
+title: "January Hat - Just the Tip"
 date: 2014-01-12 22:05:10 -0500
 comments: true
 categories: [Projects, Finished Items, Hat Calendar, Ongoing, Goals]
