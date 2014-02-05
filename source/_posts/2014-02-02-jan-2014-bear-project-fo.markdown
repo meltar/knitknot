@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bears: Beary Easy Sweater - FO"
+title: "Jan 2014 Bear Project - FO"
 date: 2014-02-02 12:15:06 -0500
 comments: true
 categories: [Bear Sweaters, Atlanta Knitting Guild, Knit it Forward, Finished Objects]
