@@ -2,14 +2,26 @@
 // To give it a try, uncomment some of the lines below rebuild your blog, and see how it works.
 // If you need a handy color picker try http://hslpicker.com
 
-//$header-bg: #263347;
-//$subtitle-color: lighten($header-bg, 58);
+//$main-bg: desaturate(lighten(#CDB48C, 20), 5);
+//$page-bg: desaturate(lighten(#CDB48C, 20), 5);
+
+$title-color: #AE70AF;
+$subtitle-color: lighten($title-color, 58);
+
+//$link-color: #E66665;
+$link-color: #AE70AF;
+$link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !default;
+$link-color-visited: adjust-color($link-color, $lightness: -25, $saturation: 25) !default;
+$link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
+
+$header-bg: #263347;
+$subtitle-color: lighten($header-bg, 58);
 //$nav-bg: desaturate(lighten(#8fc17a, 18), 5);
 //$nav-bg-front: image-url('noise.png');
 //$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11));
-//$sidebar-bg: desaturate(#eceff5, 8);
-//$sidebar-link-color: saturate(#526f9a, 10);
-//$sidebar-link-color-hover: darken(#7ab662, 9);
+$sidebar-bg: desaturate(lighten(#CDB48C, 20), 5);
+$sidebar-link-color: saturate(#E66665, 10);
+$sidebar-link-color-hover: darken(#E66665, 9);
 //$footer-bg: #ccc !default;
 //$footer-bg-front: image-url('noise.png');
 //$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
@@ -41,5 +53,3 @@
 //$pre-bg: $base03;
 //$pre-border: darken($base02, 5);
 //$pre-color: $base1;
-
-$link-color: lighten(#F2583E, 3);
