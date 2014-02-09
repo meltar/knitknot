@@ -35,6 +35,7 @@ aside.sidebar {
     color: inherit;
     @include transition(color .5s);
 		&:hover { color: $sidebar-link-color-hover; }
+		text-decoration: none;
   }
 }
 .aside-alt-link {
