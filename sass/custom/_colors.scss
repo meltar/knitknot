@@ -12,7 +12,7 @@ $link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
 
 $header-bg: #263347;
 $subtitle-color: lighten($header-bg, 58);
-$sidebar-bg: #9ECEB4;
+$sidebar-bg: #CDB48C;
 $sidebar-link-color: saturate(#222222, 10);
 $sidebar-link-hover: adjust-color($sidebar-link-color, $lightness: 10, $saturation: 25) !default;
 $footer-bg: $sidebar-bg;
