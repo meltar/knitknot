@@ -72,6 +72,7 @@ a {
 
 html {
   background: $page-bg image-url('../images/background.png');
+	background-attachment: fixed;
 }
 body {
   > div {
