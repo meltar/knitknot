@@ -5,10 +5,6 @@
 //$main-bg: desaturate(lighten(#CDB48C, 20), 5);
 //$page-bg: desaturate(lighten(#CDB48C, 20), 5);
 
-$title-color: #AE70AF;
-$subtitle-color: lighten($title-color, 58);
-
-//$link-color: #E66665;
 $link-color: #AE70AF;
 $link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !default;
 $link-color-visited: adjust-color($link-color, $lightness: -25, $saturation: 25) !default;
@@ -16,15 +12,15 @@ $link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
 
 $header-bg: #263347;
 $subtitle-color: lighten($header-bg, 58);
-//$nav-bg: desaturate(lighten(#8fc17a, 18), 5);
-//$nav-bg-front: image-url('noise.png');
-//$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11));
-$sidebar-bg: desaturate(lighten(#CDB48C, 20), 5);
-$sidebar-link-color: saturate($link-color, 10);
-$sidebar-link-color-hover: darken($link-color, 9);
-//$footer-bg: #ccc !default;
-//$footer-bg-front: image-url('noise.png');
-//$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
+$sidebar-bg: #9ECEB4;
+$sidebar-link-color: saturate(#222222, 10);
+$sidebar-link-hover: adjust-color($sidebar-link-color, $lightness: 10, $saturation: 25) !default;
+$footer-bg: $sidebar-bg;
+$footer-color: #35493e;
+$footer-link-color: $sidebar-link-color;
+$footer-link-hover-color: $sidebar-link-hover;
+$footer-bg-front: image-url('noise.png');
+$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
 
 
 /* To use the light Solarized highlighting theme uncomment the following line */
