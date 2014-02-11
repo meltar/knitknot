@@ -8,6 +8,8 @@ categories: [Bear Sweaters, Atlanta Knitting Guild, Knit it Forward, Finished Ob
 
 ## Beary Easy Sweater
 
+{% img left /images/posts/2014/2014janbear.JPG bear sweater %}
+
 ### Designer
 [Pattern](http://www.ravelry.com/patterns/library/beary-easy-sweater) by Diana Rishel
 

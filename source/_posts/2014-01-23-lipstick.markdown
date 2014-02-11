@@ -22,7 +22,7 @@ to stick to the cardigan since I wanted to knit one when I started planning whic
 definitely going to make longer sleeves if I have enough yarn.  I think that's a really useful modification
 for winter sweater wearing.
 
-{% img left /images/coral1.JPG Coral yarn %}
+{% img left /images/posts/2014/coral1.JPG Coral yarn %}
 
 I already wound my yarn, so the next step is learning how to crochet a provisional cast on around the 
 needle.

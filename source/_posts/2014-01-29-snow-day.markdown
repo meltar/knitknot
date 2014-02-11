@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Snow Day"
+date: 2014-01-29 17:18:18 -0500
+comments: true
+categories: [Ruby Mittens, Personal, FO, Winter]
+---
+
+It snowed! I haven't seen snow in a few years, so I wanted to stomp around and get some
+pictures today.  I added the Ruby design to these mittens, and they are quite popular since
+I've been working in Ruby on Rails at my most recent job and in my free time.
+
+Knitwear pictured:
+[Jane](http://www.ravelry.com/patterns/library/jane-7) in [220 Superwash](http://www.cascadeyarns.com/cascade-superwash.asp) by Cascade Yarns.
+[Rae](http://www.ravelry.com/patterns/library/rae-2)in [Tough Love Sock by SweetGeorgia Yarns](http://www.sweetgeorgiayarns.com/yarns/sock-yarns/#!prettyPhoto).  
+[Red is Best](http://www.ravelry.com/patterns/library/red-is-best) in [Cascade 220](http://www.cascadeyarns.com/cascade-220.asp) by Cascade Yarns.
+
+Coincidentally, all these patterns were designed by [Jane Richmond](http://janerichmond.blogspot.com/).
+I've knit quite a few of her patterns.

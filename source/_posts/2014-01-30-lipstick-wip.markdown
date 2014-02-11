@@ -6,7 +6,7 @@ comments: true
 categories: [Sweaters, WIP, Projects, Goals]
 ---
 
-{% img left /images/lipstick_wip_1.JPG Sweater in progress %}
+{% img left /images/posts/2014/lipstick_wip_1.JPG Sweater in progress %}
 
 [Pattern](http://www.ravelry.com/patterns/library/lipstick) by Joji Locatelli
 

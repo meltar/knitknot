@@ -8,7 +8,7 @@ categories: [Projects, Finished Items, Hat Calendar, Ongoing, Goals]
 
 ## Just the Tip
 
-{% img left /images/justthetip_fo_1.JPG Just the Tip finished project %}
+{% img left /images/posts/2014/justthetip_fo_1.JPG Just the Tip finished project %}
 
 ### Designer
 [Pattern](http://www.ravelry.com/patterns/library/just-the-tip) by Alexandra Tinsley
@@ -36,6 +36,6 @@ One reason I was really excited about knitting this pattern was because I needed
 leftover neon pink yarn that I bought for my [Safety Scarf](http://www.ravelry.com/patterns/library/safety-scarf).
 I didn't want to knit anything that used hot pink as the main color, so this hat is perfect.
 
-{% img left /images/justthetip_fo_2.JPG Just the Tip finished project %}
+{% img left /images/posts/2014/justthetip_fo_2.JPG Just the Tip finished project %}
 
 This is currently my favorite hat!
