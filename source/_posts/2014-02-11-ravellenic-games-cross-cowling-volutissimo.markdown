@@ -46,6 +46,7 @@ halfway done, I stopped alternating because I was tired of it.  After binding of
 and did surgery on the first dropped stitch row.  I was able to make it look much better by 
 cutting the yarn that was too tight and zig-zagging some new yarn though that section.
 
-Before blocking picture
+{% img left /images/posts/2014/volutissimo_unblocked.JPG Unblocked cowl %}
+*Unblocked cowl*
 
 After blocking picture
