@@ -12,13 +12,13 @@ $link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
 
 $header-bg: #263347;
 $subtitle-color: lighten($header-bg, 58);
-$sidebar-bg: #CDB48C;
+$sidebar-bg: #E66665;
 $sidebar-link-color: saturate(#222222, 10);
-$sidebar-link-hover: adjust-color($sidebar-link-color, $lightness: 10, $saturation: 25) !default;
+$sidebar-link-color-hover: #FFF;
 $footer-bg: $sidebar-bg;
-$footer-color: #35493e;
+$footer-color: #000;
 $footer-link-color: $sidebar-link-color;
-$footer-link-hover-color: $sidebar-link-hover;
+$footer-link-color-hover: $sidebar-link-color-hover;
 $footer-bg-front: image-url('noise.png');
 $footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
 
