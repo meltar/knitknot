@@ -6,7 +6,7 @@ comments: true
 categories: [Wardrobe, Fashion, Personal, Planning, One Suitcase, Cleanout, Winter]
 ---
 
-You can view the original guide on Outfit Posts [here](http://www.outfitposts.com/2013/02/one-suitcase-winter-vacation-capsule.html).
+You can view the original guide on Outfit Posts for this set [here](http://www.outfitposts.com/2013/02/one-suitcase-winter-vacation-capsule.html).
 
 ## Basics
 - **Black long sleeved shirt - Found (Gap lightweight sweater)**
