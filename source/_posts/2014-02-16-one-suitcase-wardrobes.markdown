@@ -3,7 +3,7 @@ layout: post
 title: "One Suitcase Wardrobes"
 date: 2014-02-16 21:47:03 -0500
 comments: true
-categories: [Wardrobe, Fashion, Personal, Planning]
+categories: [Wardrobe, Fashion, Personal, Planning, One Suitcase, Cleanout]
 ---
 
 I was reminded of the "One Suitcase" series on [outfitposts.com](http://outfitposts.com) when
