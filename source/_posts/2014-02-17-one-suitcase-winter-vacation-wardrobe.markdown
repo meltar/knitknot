@@ -8,6 +8,12 @@ categories: [Wardrobe, Fashion, Personal, Planning, One Suitcase, Cleanout, Wint
 
 You can view the original guide on Outfit Posts for this set [here](http://www.outfitposts.com/2013/02/one-suitcase-winter-vacation-capsule.html).
 
+The idea is that with sixteen pieces of clothing, you can mix and match them to make forty 
+different outfits.
+
+This is one of the vacation set,s but it's pretty close to my normal winter
+wardrobe for work.
+
 ## Basics
 - **Black long sleeved shirt - Found (Gap lightweight sweater)**
 - **White button down blouse - Found (Express blouse)**
