@@ -5,7 +5,7 @@ date: 2014-02-17 21:44:26 -0500
 comments: true
 categories: [Wardrobe, Fashion, Personal, Planning, One Suitcase, Cleanout, Winter]
 ---
-TEST
+TEST TEST
 
 You can view the original guide on Outfit Posts for this set [here](http://www.outfitposts.com/2013/02/one-suitcase-winter-vacation-capsule.html).
 
