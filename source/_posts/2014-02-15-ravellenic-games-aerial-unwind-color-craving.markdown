@@ -8,7 +8,7 @@ categories: [Frogged, Ravellenic Games]
 
 ##  Color Craving - Frogged
 
-Picture
+{% img left /images/posts/2014/frogged_color_craving1.JPG Reclaimed yarn %}
 
 ### Ravellenic Games Categories
 Aerial Unwind
@@ -30,6 +30,10 @@ knitting per week was more than I was able to easily do.  I got behind, and I di
 enjoy working on the project.  I found it difficult to knit rows that bent at such an extreme
 angle, especially as the rows got longer and longer.  After seeing pictures of the final design,
 I'm not sure I'd wear it anyway.
+
+I thought about winding the used yarn back into the balls, but it was easier to just wind
+it up separately.  I made small center pull balls using a size US 13 needle as a 
+nostepinne.
 
 {% img left /images/posts/2014/colorcraving.JPG Unfinished project %}
 *WIP Color Craving before frogging*

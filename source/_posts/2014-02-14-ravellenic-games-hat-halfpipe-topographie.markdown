@@ -8,7 +8,7 @@ categories:
 
 ## Topographie
 
-Picture
+{% img left /images/posts/2014/topographie1.JPG Finished hat %}
 
 ### Ravellenic Games Categories
 Hat Halfpipe  

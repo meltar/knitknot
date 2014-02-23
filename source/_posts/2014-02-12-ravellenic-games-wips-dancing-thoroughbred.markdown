@@ -8,7 +8,7 @@ categories: [Projects, Finished Items, Ravellenic Games, Fingerless Gloves]
 
 ## Thoroughbred
 
-Picture
+{% img left /images/posts/2014/thoroughbred_small1.JPG Finished fingerless gloves %}
 
 ### Ravellenic Games Categories
 WIPs Dancing  
