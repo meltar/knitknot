@@ -3,8 +3,7 @@ layout: post
 title: "Cast On Bind Off"
 date: 2014-02-25 21:15:46 -0500
 comments: true
-published: false
-categories: 
+categories: [Books, Library, Instructions]
 ---
 
 The [instructions](https://www.inkling.com/read/cast-on-bind-off-54-step-by-step-methods-leslie-ann-bestor-1st/stretchy-bind-offs/icelandic-bind-off)
