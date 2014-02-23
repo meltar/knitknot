@@ -19,15 +19,15 @@ substitutions when necessary.
 ## Basics
 - White camp shirt - None
 - Chambray button down - None
-- White pleated shorts - Found (white Express shorts)
-- Black shorts - Found (black Express pleated shorts)
-- White cardigan - None
-- Navy cardigan - None
+- **White pleated shorts - Found (white Express shorts)**
+- **Black shorts - Found (black Express pleated shorts)**
+- **White cardigan - Found (Express white open cardigan)
+- Navy cardigan - None (Knit one??)
 - White strapless dress - None
 
 ## Interest
-- Pink v-neck shirt - Found (salmon H&M tshirt)
-- Grey and white striped tank - None
+- **Pink v-neck shirt - Found (salmon H&M tshirt)**
+- **Grey and white striped tank - Found (black and white Express Dolman shirt)**
 - Ikat strapless coverup - None
 - Ikat print skirt - None
 - Green and yellow dress - None
@@ -41,14 +41,14 @@ substitutions when necessary.
 
 ### Shoes
 - Brown gladiator flats - None
-- Brown sandal wedges - Found (Naturalizer wedge)
+- **Brown sandal wedges - Found (Naturalizer wedge)**
 - Silver flip flops - None
 
 ### Jewelry
-- Teal bubble necklace - Found (Neon orange and clear necklace)
+- **Teal bubble necklace - Found (Neon orange and clear necklace)**
 - Pink multistrand color blocked necklace - None
-- Gold link watch - Found (silver watch)
-- [del]White fedora hat - None[/del] (no hats!)
-- Gold pendant necklace - Found (silver pendant necklace)
+- **Gold link watch - Found (silver watch)**
+- <del>White fedora hat - None</del> (no hats!)
+- **Gold pendant necklace - Found (silver pendant necklace)**
 
 ## Notes
