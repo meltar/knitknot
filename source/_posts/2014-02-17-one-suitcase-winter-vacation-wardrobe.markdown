@@ -19,7 +19,7 @@ wardrobe for work.
 - **White button down blouse - Found (Express blouse)**
 - Chambray shirt - None
 - Cream cable knit sweater - None (Knit one??)
-- Black mini skirt - None
+- **Black mini skirt - Found (Target skirt(**
 - Cream lady day coat - None (Substitute a green parka?)
 - **Denim skinny jeans - Found (Express jeans)**
 - **Black skinny jeans - Found (Express jeans)**
@@ -32,7 +32,7 @@ wardrobe for work.
 - **Black and white striped shirt - Found (Loft tan and white striped sweater)**
 - **Faux leather jacket - Found (Express moto jacket)**
 - **White puffer vest - Found (Loft gold vest)**
-- Mustard pencil skirt - None
+- **Mustard pencil skirt - Found (Blue H&M pencil skirt)**
 
 ## Accessories
 ### Scarves
