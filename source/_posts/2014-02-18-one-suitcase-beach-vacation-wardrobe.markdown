@@ -21,7 +21,7 @@ substitutions when necessary.
 - Chambray button down - None
 - **White pleated shorts - Found (white Express shorts)**
 - **Black shorts - Found (black Express pleated shorts)**
-- **White cardigan - Found (Express white open cardigan)
+- **White cardigan - Found (Express white open cardigan)**
 - Navy cardigan - None (Knit one??)
 - White strapless dress - None
 
