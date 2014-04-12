@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Growler Bag"
+title: "Growler Bag - FO"
 date: 2014-03-02 01:24:04 -0500
 comments: true
 categories: [Finished Objects, Bag]
 ---
 
-## Growler Bag - FO
+## Growler Bag
 
 ### Designer
 [Pattern](http://www.ravelry.com/patterns/library/growler-caddy) by Lisa Gerber
