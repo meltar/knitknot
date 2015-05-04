@@ -5,14 +5,14 @@
 //$main-bg: desaturate(lighten(#CDB48C, 20), 5);
 //$page-bg: desaturate(lighten(#CDB48C, 20), 5);
 
-$link-color: #AE70AF;
+$link-color: #955251;
 $link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !default;
 $link-color-visited: adjust-color($link-color, $lightness: -25, $saturation: 25) !default;
 $link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
 
-$header-bg: #263347;
+$header-bg: #E3868F;
 $subtitle-color: lighten($header-bg, 58);
-$sidebar-bg: adjust-color(#E66665, $lightness: 5) !default;
+$sidebar-bg: adjust-color(#E3868F, $lightness: 5) !default;
 $sidebar-link-color: saturate(#222222, 10);
 $sidebar-link-color-hover: #FFF;
 $footer-bg: $sidebar-bg;
